@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.Posts {
+  height: 500px;
+  width: 400px;
+  text-align: center;
+  align-items: center;
+  margin-left: 35%;
+}
